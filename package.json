@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/JeralPineda/JP-Product-Card",
+    "type": "git"
+  },
+  "homepage": "https://github.com/JeralPineda/JP-Product-Card",
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +65,11 @@
     "tsdx": "^0.13.3",
     "tslib": "^2.5.2",
     "typescript": "^5.0.4"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "jeral",
+    "mejia"
+  ]
 }
